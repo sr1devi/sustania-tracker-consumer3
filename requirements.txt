@@ -1,0 +1,6 @@
+nltk==3.9.1
+numpy==2.2.1
+pandas==2.2.3
+pytorch_tabnet==4.1.0
+scikit_learn==1.6.0
+streamlit==1.41.1
